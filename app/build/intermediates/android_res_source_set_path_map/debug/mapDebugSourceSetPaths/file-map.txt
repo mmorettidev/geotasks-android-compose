@@ -1,0 +1,7 @@
+com.matteomoretti.geotasks.app-pngs-0 /Users/mmoretti/AndroidStudioProjects/GeoTasks/app/build/generated/res/pngs/debug
+com.matteomoretti.geotasks.app-updated_navigation_xml-1 /Users/mmoretti/AndroidStudioProjects/GeoTasks/app/build/generated/updated_navigation_xml/debug
+com.matteomoretti.geotasks.app-packageDebugResources-2 /Users/mmoretti/AndroidStudioProjects/GeoTasks/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.matteomoretti.geotasks.app-packageDebugResources-3 /Users/mmoretti/AndroidStudioProjects/GeoTasks/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.matteomoretti.geotasks.app-debug-4 /Users/mmoretti/AndroidStudioProjects/GeoTasks/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.matteomoretti.geotasks.app-debug-5 /Users/mmoretti/AndroidStudioProjects/GeoTasks/app/src/debug/res
+com.matteomoretti.geotasks.app-main-6 /Users/mmoretti/AndroidStudioProjects/GeoTasks/app/src/main/res
